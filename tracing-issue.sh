@@ -1,0 +1,1 @@
+curl -X PUT http://localhost:8080/test -H "Content-Type: application/x-www-form-urlencoded"  --data "  %@ "
